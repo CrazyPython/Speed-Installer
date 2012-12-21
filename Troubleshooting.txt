@@ -3,3 +3,7 @@ Sourceforge
 First,download the latest version.
 Second,Right-Click "direct link" and click copy link address.
 Third,press CTRL-V and enter(you will see ^V).
+
+File format
+===========
+The file format must be zip.
